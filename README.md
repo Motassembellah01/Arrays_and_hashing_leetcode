@@ -10,13 +10,21 @@ Build a structured collection of solutions for reference and continuous learning
 Highlight not just correct solutions, but also my growth in writing cleaner, optimized, and more readable code.
 
 🧩 Problems Solved
-
-  217. Contains Duplicate
-  271. Encode and Decode Strings (LeetCode Premium)
-  49. Group Anagrams
-  128. Longest Consecutive Sequence
-  238. Product of Array Except Self
-  347. Top K Frequent Elements
-  1. Two Sum
-  242. Valid Anagram
-  36. Valid Sudoku
+  
+  217.Contains Duplicate
+  
+  271.Encode and Decode Strings (LeetCode Premium)
+  
+  49.Group Anagrams
+  
+  128.Longest Consecutive Sequence
+  
+  238.Product of Array Except Self
+  
+  347.Top K Frequent Elements
+  
+  1.Two Sum
+  
+  242.Valid Anagram
+  
+  36.Valid Sudoku
